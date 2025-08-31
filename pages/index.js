@@ -1,7 +1,7 @@
-import Navbar from '../Navbar'
-import HeroSlider from '../HeroSlider'
-import ServiceCards from '../ServiceCards'
-import Footer from '../Footer'
+import Navbar from '../components/Navbar'
+import HeroSlider from '../components/HeroSlider'
+import ServiceCards from '../components/ServiceCards'
+import Footer from '../components/Footer'
 
 export default function Home() {
   return (
